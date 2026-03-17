@@ -1,0 +1,9 @@
+C:\Users\shaa\source\repos\zefray064\decoder\src\decoderApp\decoderApp\bin\Debug\decoderApp.exe.config
+C:\Users\shaa\source\repos\zefray064\decoder\src\decoderApp\decoderApp\bin\Debug\decoderApp.exe
+C:\Users\shaa\source\repos\zefray064\decoder\src\decoderApp\decoderApp\bin\Debug\decoderApp.pdb
+C:\Users\shaa\source\repos\zefray064\decoder\src\decoderApp\decoderApp\obj\Debug\decoderApp.csprojAssemblyReference.cache
+C:\Users\shaa\source\repos\zefray064\decoder\src\decoderApp\decoderApp\obj\Debug\decoderApp.Form1.resources
+C:\Users\shaa\source\repos\zefray064\decoder\src\decoderApp\decoderApp\obj\Debug\decoderApp.Properties.Resources.resources
+C:\Users\shaa\source\repos\zefray064\decoder\src\decoderApp\decoderApp\obj\Debug\decoderApp.csproj.GenerateResource.cache
+C:\Users\shaa\source\repos\zefray064\decoder\src\decoderApp\decoderApp\obj\Debug\decoderApp.exe
+C:\Users\shaa\source\repos\zefray064\decoder\src\decoderApp\decoderApp\obj\Debug\decoderApp.pdb
